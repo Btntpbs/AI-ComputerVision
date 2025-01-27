@@ -1,5 +1,5 @@
 # AI and Computer Vision Tasks
-
+This Project created by Caner Olcay And Batın Topbaşoğlu
 This repository contains implementations for Artificial Intelligence and Computer Vision laboratory tasks, focusing on maze-solving algorithms such as Depth-First Search (DFS) and A*.
 
 ## Project Description
